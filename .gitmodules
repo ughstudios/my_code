@@ -4,3 +4,6 @@
 [submodule "EnvironmentVariables"]
 	path = EnvironmentVariables
 	url = https://github.com/ughstudios/EnvironmentVariables.git
+[submodule "DLLInjector"]
+	path = DLLInjector
+	url = https://github.com/ughstudios/DLLInjector.git
