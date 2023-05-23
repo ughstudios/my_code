@@ -10,3 +10,6 @@
 [submodule "qtutils"]
 	path = qtutils
 	url = https://github.com/ughstudios/qtutils.git
+[submodule "myci"]
+	path = myci
+	url = https://github.com/ughstudios/myci.git
