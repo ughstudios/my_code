@@ -1,3 +1,6 @@
 [submodule "LeagueHelper"]
 	path = LeagueHelper
 	url = https://github.com/ughstudios/LeagueHelper
+[submodule "environment_variables"]
+	path = environment_variables
+	url = https://github.com/ughstudios/environment_variables.git
