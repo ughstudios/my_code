@@ -7,3 +7,6 @@
 [submodule "DLLInjector"]
 	path = DLLInjector
 	url = https://github.com/ughstudios/DLLInjector.git
+[submodule "qtutils"]
+	path = qtutils
+	url = https://github.com/ughstudios/qtutils.git
