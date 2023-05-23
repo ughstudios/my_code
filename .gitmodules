@@ -1,0 +1,3 @@
+[submodule "LeagueHelper"]
+	path = LeagueHelper
+	url = https://github.com/ughstudios/LeagueHelper
