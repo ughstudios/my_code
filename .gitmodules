@@ -13,3 +13,6 @@
 [submodule "myci"]
 	path = myci
 	url = https://github.com/ughstudios/myci.git
+[submodule "leetcode-practice"]
+	path = leetcode-practice
+	url = https://github.com/ughstudios/leetcode-practice.git
