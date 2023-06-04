@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "LeagueHelper"
+		},
+		{
+			"path": "InGameOverlay"
+		},
+		{
+			"path": "EnvironmentVariables"
+		},
+		{
+			"path": "Config"
+		},
+		{
+			"path": "OverlayInjector"
+		},
+		{
+			"path": "leaguetool.com"
+		},
+		{
+			"path": "LeagueDumper"
+		},
+		{
+			"path": "MyCI"
+		},
+		{
+			"path": "Connector"
+		},
+		{
+			"path": "leetcode-practice"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fstream": "cpp"
+		},
+		"powershell.cwd": "c:\\Users\\pbssu\\Desktop\\LeagueTools\\LeagueHelper",
+		"typescript.tsdk": "leaguetool.com\\node_modules\\typescript\\lib"
+	}
+}
