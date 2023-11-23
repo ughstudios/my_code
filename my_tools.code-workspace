@@ -29,6 +29,9 @@
 		},
 		{
 			"path": "leetcode-practice"
+		},
+		{
+			"path": "my_ci_vue"
 		}
 	],
 	"settings": {
