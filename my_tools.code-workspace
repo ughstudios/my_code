@@ -31,8 +31,8 @@
 			"path": "leetcode-practice"
 		},
 		{
-			"path": "my_ci_vue"
-		}
+			"path": "my_ci_nuxt"
+		},
 	],
 	"settings": {
 		"files.associations": {

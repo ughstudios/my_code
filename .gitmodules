@@ -16,3 +16,6 @@
 [submodule "leetcode-practice"]
 	path = leetcode-practice
 	url = https://github.com/ughstudios/leetcode-practice.git
+[submodule "my_ci_nuxt"]
+	path = my_ci_nuxt
+	url = https://github.com/ughstudios/my_ci_nuxt
