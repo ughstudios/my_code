@@ -33,12 +33,5 @@
 		{
 			"path": "my_ci_nuxt"
 		},
-	],
-	"settings": {
-		"files.associations": {
-			"fstream": "cpp"
-		},
-		"powershell.cwd": "c:\\Users\\pbssu\\Desktop\\LeagueTools\\LeagueHelper",
-		"typescript.tsdk": "leaguetool.com\\node_modules\\typescript\\lib"
-	}
+	]
 }
