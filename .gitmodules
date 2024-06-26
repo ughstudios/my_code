@@ -19,3 +19,6 @@
 [submodule "my_ci_nuxt"]
 	path = my_ci_nuxt
 	url = https://github.com/ughstudios/my_ci_nuxt
+[submodule "ci_runner"]
+	path = ci_runner
+	url = https://github.com/ughstudios/ci_runner
