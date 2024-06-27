@@ -22,3 +22,6 @@
 [submodule "ci_runner"]
 	path = ci_runner
 	url = https://github.com/ughstudios/ci_runner
+[submodule "byteburst_core"]
+	path = byteburst_core
+	url = https://github.com/ughstudios/byteburst_core.git
