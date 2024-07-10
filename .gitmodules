@@ -25,3 +25,6 @@
 [submodule "byteburst_core"]
 	path = byteburst_core
 	url = https://github.com/ughstudios/byteburst_core.git
+[submodule "byteburst_tools"]
+	path = byteburst_tools
+	url = https://github.com/ughstudios/byteburst_tools.git
