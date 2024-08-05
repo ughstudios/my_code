@@ -10,15 +10,9 @@
 [submodule "qtutils"]
 	path = qtutils
 	url = https://github.com/ughstudios/qtutils.git
-[submodule "myci"]
-	path = myci
-	url = https://github.com/ughstudios/myci.git
 [submodule "leetcode-practice"]
 	path = leetcode-practice
 	url = https://github.com/ughstudios/leetcode-practice.git
-[submodule "my_ci_nuxt"]
-	path = my_ci_nuxt
-	url = https://github.com/ughstudios/my_ci_nuxt
 [submodule "ci_runner"]
 	path = ci_runner
 	url = https://github.com/ughstudios/ci_runner
