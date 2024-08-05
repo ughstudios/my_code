@@ -28,3 +28,6 @@
 [submodule "maze-game"]
 	path = maze-game
 	url = https://github.com/ughstudios/maze-game.git
+[submodule "library-catalog"]
+	path = library-catalog
+	url = https://github.com/ughstudios/library-catalog.git
