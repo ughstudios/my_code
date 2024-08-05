@@ -25,3 +25,6 @@
 [submodule "my_ci"]
 	path = my_ci
 	url = https://github.com/ughstudios/my_ci.git
+[submodule "maze-game"]
+	path = maze-game
+	url = https://github.com/ughstudios/maze-game.git
