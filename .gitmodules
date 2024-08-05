@@ -22,3 +22,6 @@
 [submodule "byteburst_tools"]
 	path = byteburst_tools
 	url = https://github.com/ughstudios/byteburst_tools.git
+[submodule "my_ci"]
+	path = my_ci
+	url = https://github.com/ughstudios/my_ci.git
